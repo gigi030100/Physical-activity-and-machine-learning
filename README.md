@@ -1,5 +1,7 @@
 # Physical Activity and Machine Learning
 
+![Uploading Screenshot 2025-02-03 at 10.17.03.png…]()
+
 ## Research aim
 This report aims to develop a reliable system which helps to predict the amount, and type of physical exercise a person completes using machine learning techniques. 
 
