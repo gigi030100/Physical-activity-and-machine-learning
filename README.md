@@ -14,6 +14,7 @@ To achieve this goal, my report does the following:
 
 ### Dataset
 This report incorporates the PAMAP2 (Physical Activity Monitoring) dataset containing information regarding the physical exercises undertaken by participants. Data on the exercises undertaken include the timestamp, activity type, heart rate and the movement of hands, chest, and ankles using inertial measurement units (IMU). A total of 9 participants (8 males and 1 female) were sampled for the dataset. All subjects were asked to perform 12 different activities. Although they were given the option to complete other optional activities, this report will be mainly focusing on the activities described in the DataCollectionProtocol file.
+The dataset was obtained from https://archive.ics.uci.edu/dataset/231/pamap2+physical+activity+monitoring 
 
 Before performing exploratory data analysis, splitting the dataset into training and testing set is essential to avoid overfitting models. It's also helpful in avoiding biases that arise from preconceptions gained from looking at the data itself. The decision to split the dataset is applicable in this report due to the large sample size it constitutes. The data split ratio used for this report is 50:50. 
 
